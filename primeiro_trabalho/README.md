@@ -1,7 +1,8 @@
 <!--titulo-->
 <h1 align="center"><strong>1° Trabalho - Laboratório de Programação</strong><hr>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/d21yyNG/img02.png" alt="imagem da tela inicial do programa"></a></h1>
+<img src="https://i.ibb.co/d21yyNG/img02.png" alt="imagem da tela inicial do programa"></h1>
+
 
 <h3 align="center"><strong>Sobre o projeto</strong></h3>
 
