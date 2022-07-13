@@ -1,5 +1,5 @@
 <!--titulo-->
-<h1 align="center"><strong>2° Trabalho de Laboratório</strong><hr>
+<h1 align="center"><strong>2° Trabalho - Laboratório de Programação</strong><hr>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/d21yyNG/img02.png" alt="imagem da tela inicial do programa"></a></h1>
 
